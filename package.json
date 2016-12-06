@@ -1,0 +1,20 @@
+{
+  "name": "textranker",
+  "version": "1.0.0",
+  "description": "A Textrank Calculator",
+  "main": "./lib/textranker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "textrank",
+    "text",
+    "rank",
+    "pagerank",
+    "graph",
+    "ranking",
+    "algorithm"
+  ],
+  "author": "Godof Kim",
+  "license": "MIT"
+}
