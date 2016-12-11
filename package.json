@@ -1,8 +1,9 @@
 {
   "name": "textranker",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A Textrank Calculator",
   "main": "./lib/textranker.js",
+  "repository": "https://github.com/GodofKim/textranker",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
